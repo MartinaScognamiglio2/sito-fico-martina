@@ -1,0 +1,43 @@
+site_name: MARTINA'S WEBSITE
+site_url: https://mydomain.org/martinaswebsite
+theme:
+  name: material
+  theme:
+    logo: assets/sign.png
+  theme:
+  palette:
+    primary: cyan
+    accent: teal
+    theme:
+  palette: 
+
+    # Palette toggle for light mode
+    - scheme: default
+      primary: cyan
+      accent: teal
+      toggle:
+        icon: material/brightness-7 
+        name: Tema Chiaro
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: cyan
+      accent: teal
+      toggle:
+        icon: material/brightness-4
+        name: Tema Scuro
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs   
+    - navigation.tabs
+    - navigation.tabs.sticky
+    
+nav:
+ - Home: index.md
+ - About: 
+   - Introduzione: about/introduzione.md
+   - Lavori Conclusi: about/lavori conclusi.md
+
