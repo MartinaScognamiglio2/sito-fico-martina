@@ -5,4 +5,4 @@ Ciao! Questo è il mio sito web per documentare i miei lavori nel laboratorio di
 ## NELLA SEZIONE "ABOUT" TROVERAI:
 
 * La mia introduzione
-* I miei lavori finiti.
+* I miei lavori finiti..
